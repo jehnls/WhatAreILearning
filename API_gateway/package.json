@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "gateway": "node index.js",
+    "movies": "node movies",
+    "cinemas" :"node cinema",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
